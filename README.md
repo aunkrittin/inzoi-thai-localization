@@ -18,4 +18,4 @@
 
 ปิดเกมแล้วลบโฟลเดอร์ `%USERPROFILE%\Documents\inZOI\Mods\88849\Thai_Localization_7F01A001`
 
-ม็อดนี้ไม่แก้ไขไฟล์เกมต้นฉบับ หากพบข้อความที่ยังเป็นภาษาอังกฤษหรือคำแปลที่อ่านไม่ลื่น สามารถแจ้งได้ที่ [Issues](https://github.com/aunkrittin/inzoi-thai-localization/issues)
+ม็อดนี้ไม่แก้ไขไฟล์เกมต้นฉบับ ดู [ปัญหาที่ทราบ](KNOWN_ISSUES.md) หรือแจ้งปัญหาได้ที่ [Issues](https://github.com/aunkrittin/inzoi-thai-localization/issues)
